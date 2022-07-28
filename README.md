@@ -12,7 +12,7 @@ sS    `:; sS    S%S sS    S%S sS    S%S sS    S%S sSs.  S%S SS    S%S sS    S%S 
 `:;;;;;:' :;    ;:' `:;;;;;:' ;;;;;;;:' :;    ;:' :;    ;:' `:;;;;;:' `:;;;;;:'    ;:'    
                                                                                           
 ```
-![Screenshot]
+![Screenshot](3CC8640C-D2E1-486E-B1D4-140163B7F45D.jpeg)
 # Prerequisites
 
 ```
