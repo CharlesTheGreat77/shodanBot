@@ -36,7 +36,8 @@ Ex.
 $ ?shodan "root@"
 $ ?shodan "10.10.10.10"
 $ ?shodan "SMB"
-# 
+```
+
 - a limit of 5 queries will be outputted and can be changed in the code as you see fit. 
 
 ### 💬 Contact Me 
