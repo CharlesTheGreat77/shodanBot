@@ -13,6 +13,15 @@ sS    `:; sS    S%S sS    S%S sS    S%S sS    S%S sSs.  S%S SS    S%S sS    S%S 
                                                                                           
 ```
 ![Screenshot](3CC8640C-D2E1-486E-B1D4-140163B7F45D.jpeg)
+
+```
+
+This tool was developed sorely for educational purposes 
+and should not be used in environments without legal authorization. 
+Therefore, the author shall not be responsible for the damages that might be done with it.
+
+```
+
 # Prerequisites
 
 ```
